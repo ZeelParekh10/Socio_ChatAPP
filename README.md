@@ -8,6 +8,7 @@ This is a chat application built using FLutter and is powered by Firebase. It pr
 - User Login: Registered users can securely log in using their credentials.
 - Real-time Communication: Users can exchange messages with other users in real-time, facilitating seamless and instant communication.
 - Message History: The app stores and displays the chat history, allowing users to review previous conversations.
+- User Logout: Users can successfully logout
 
 
 
