@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121802244001",
+    "project_id": "chitchat-ffe84",
+    "storage_bucket": "chitchat-ffe84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121802244001:android:25652466ab6be89a7395e0",
+        "android_client_info": {
+          "package_name": "com.zeel10.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121802244001-bkqagiu98q62qa9n7v9h539uepqc71lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdGsyJJIsV0mWMi5pHHVqwyh9QGck7R7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121802244001-bkqagiu98q62qa9n7v9h539uepqc71lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
