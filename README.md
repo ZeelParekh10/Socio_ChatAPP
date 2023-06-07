@@ -27,7 +27,14 @@ This is a chat application built using FLutter and is powered by Firebase. It pr
 - Connect your device or start an emulator.
 - Run the application using the Flutter run command.
     
-## Demo
+## ScreenShots
+
+<div>
+<img src="https://github.com/ZeelParekh10/Socio_ChatAPP/assets/90596719/462254ae-6bf5-4162-a20c-017fa4e46ca1" alt="ss1" width="200" height="400">
+<img src="https://github.com/ZeelParekh10/Socio_ChatAPP/assets/90596719/fc17d124-a420-479c-af96-05410ba7cbb0" alt="ss1" width="200" height="400">
+<img src="https://github.com/ZeelParekh10/Socio_ChatAPP/assets/90596719/7505d742-83a2-4d83-80c4-d94ecc271b98" alt="ss1" width="200" height="400">
+<div />
+
 
 
 
