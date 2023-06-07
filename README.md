@@ -1,16 +1,33 @@
-# chat_app
 
-A new Flutter project.
+# Socio - Chat APP
 
-## Getting Started
+This is a chat application built using FLutter and is powered by Firebase. It provides users with a platform to register, login, and engage in real-time communication with other users.
+## Features
 
-This project is a starting point for a Flutter application.
+- User Registration: Users can create a new account by providing their username, email, and password.
+- User Login: Registered users can securely log in using their credentials.
+- Real-time Communication: Users can exchange messages with other users in real-time, facilitating seamless and instant communication.
+- Message History: The app stores and displays the chat history, allowing users to review previous conversations.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+**Frontend:** Flutter
+
+**Backend** Firebase
+
+
+## Installation
+
+
+- Install Flutter SDK: Follow the official documentation of Flutter (https://flutter.dev/docs/get-started/install) to install the Flutter SDK.
+- Set up your preferred IDE (e.g., Android Studio, Visual Studio Code) for Flutter development.
+- Open the Flutter project in your IDE.
+- Connect your device or start an emulator.
+- Run the application using the Flutter run command.
+    
+## Demo
+
+
+
